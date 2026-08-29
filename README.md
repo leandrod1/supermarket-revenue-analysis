@@ -45,4 +45,6 @@ By comparing analytical results between **SQL** and **Python**, the analysis was
 
 ---
 
-👤 Author: Leandro Soares: [LinkedIn Profile](https://www.linkedin.com/in/leandro-soares-91912097/)
+## 👤 Author 
+
+Leandro Soares: [LinkedIn Profile](https://www.linkedin.com/in/leandro-soares-91912097/)
