@@ -41,7 +41,7 @@ By comparing analytical results between **SQL** and **Python**, the analysis was
 
 ## 🖼️ Dashboard Preview
 
-![Tableau Dashboard]()
+![Tableau Dashboard](dashboard_preview.png)
 
 ---
 
