@@ -1,6 +1,6 @@
 # Supermarket Sales Performance Analysis
 
-[![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](./notebooks/supermarket_analysis.ipynb)
+[![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](supermarket_analysis.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3572A5?style=flat-square&logo=python&logoColor=white)](./notebooks/supermarket_analysis.ipynb)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/leandro.soares5108/viz/Libro1_17879369054260/Dashboard1)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales/data)
